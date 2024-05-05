@@ -1,0 +1,29 @@
+
+­
+java:S1192M"yDefine a constant instead of duplicating this literal "--------------------------------------------------------" 5 times.b 86647ed46949642d2a2b533d45c98bf5h
+„	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b e1e1d3d40573127e9ee0480caf1283d6h
+…	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 8d9c307cb7f3c4a32822a51922d1ceaah
+	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.b b637b17af08aced8850c18cccde915dah
+	java:S115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.b 92eb5ffee6ae2fec3ad71c777531578fh
+m
+java:S34009"9Remove this method and declare a constant for this value.b 2cfbc1e17fb7101be8f9f20d5aeb9ccfh
+o	java:S125>"<This block of commented-out lines of code should be removed.b 18b33a783128b98b5b71059dca27540dh
+^	java:S106D"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106H"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106K"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106M"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106O"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106U"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106V"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106Y"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106Z"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106]"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106^"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106a"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106b"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+o	java:S125h"<This block of commented-out lines of code should be removed.b 33d27e684fb805cf9a6f6dab8b4e9516h
+o	java:S125n"<This block of commented-out lines of code should be removed.b 5c67d31451967bbc695d5c41cebe62eah
+^	java:S106s"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+p	java:S125§"<This block of commented-out lines of code should be removed.b 4a280ac002a5dc7daf0bc8c95a10160bh
+p	java:S125ª"<This block of commented-out lines of code should be removed.b 6a79789ed35f8861dbfcc5bfdd13f931h
+‚	java:S100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b a5f3c6a11b03839d46af9fb43c97c188h

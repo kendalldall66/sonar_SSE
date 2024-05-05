@@ -1,0 +1,11 @@
+
+Ä	java:S116
+"MRename this field "Iu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b e82ed0978d406633b6c0abfa03d0db0bh
+Å	java:S116"NRename this field "Fid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 0800b5e65fa1441429142ba713af831bh
+Ñ	java:S116"QRename this field "Lchild" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b b5ac0fa8b240d2df446e43f051cc0032h
+Ñ	java:S116"QRename this field "Rchild" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 969a8924684bf66be384c8d46595f589h
+ô
+java:S1149
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b c90c247d1176adfee963e45bd47b31ebh
+o	java:S125
+"<This block of commented-out lines of code should be removed.b 083b51ffe86fc3bafebaf20c96186ed8h

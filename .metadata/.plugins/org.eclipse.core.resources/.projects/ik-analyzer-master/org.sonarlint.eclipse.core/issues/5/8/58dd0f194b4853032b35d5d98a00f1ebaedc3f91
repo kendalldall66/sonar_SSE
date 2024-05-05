@@ -1,0 +1,7 @@
+
+ç
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").b 41f005102dddb480d2dbc9d9ee395bc1h
+r
+java:S1117c">Rename "segmenters" which hides the field declared at line 47.b 306a06ef79bb5c29e8f76b24004a4940h
+Ü
+java:S3776t"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.b d0cab90d8d20d57e2f2b9be52f7dd25dh

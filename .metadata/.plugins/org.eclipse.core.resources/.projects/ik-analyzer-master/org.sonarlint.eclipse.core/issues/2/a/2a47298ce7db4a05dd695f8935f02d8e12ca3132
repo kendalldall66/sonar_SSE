@@ -1,0 +1,296 @@
+
+z	java:S112‹"FDefine and throw a dedicated exception instead of using a generic one.b b0d4998a26f5b5742ad38c4af8817e32h
+c
+java:S3740("/Provide the parametrized type for this generic.b cabc0b3c65c3d25adfb69cc0517e5b3eh
+c
+java:S3740("/Provide the parametrized type for this generic.b cabc0b3c65c3d25adfb69cc0517e5b3eh
+c
+java:S3740n"/Provide the parametrized type for this generic.b cabc0b3c65c3d25adfb69cc0517e5b3eh
+c
+java:S3740n"/Provide the parametrized type for this generic.b cabc0b3c65c3d25adfb69cc0517e5b3eh
+d
+java:S3740´"/Provide the parametrized type for this generic.b cabc0b3c65c3d25adfb69cc0517e5b3eh
+d
+java:S3740´"/Provide the parametrized type for this generic.b cabc0b3c65c3d25adfb69cc0517e5b3eh
+ç
+java:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").b 19a2c80a76424a114603f6d7de5fc022h
+é
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+é
+java:S2293ı"YReplace the type specification in this constructor call with the diamond operator ("<>").b 19a2c80a76424a114603f6d7de5fc022h
+é
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").b 7c11612fd030321abdab4ec1ee72ddbdh
+é
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").b b7cc514e6738760eee65017adf2ce7f0h
+é
+java:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+é
+java:S2293π"YReplace the type specification in this constructor call with the diamond operator ("<>").b b7cc514e6738760eee65017adf2ce7f0h
+é
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+é
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+é
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").b 19a2c80a76424a114603f6d7de5fc022h
+é
+java:S2293à"YReplace the type specification in this constructor call with the diamond operator ("<>").b 7c11612fd030321abdab4ec1ee72ddbdh
+é
+java:S1192‚"YDefine a constant instead of duplicating this literal "[a-zA-Z]+(\\-[a-zA-Z]+)?" 3 times.b f6492957bf3e4fc44caf21ca49397685h
+Ñ	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 2cc9f63525d1b560aae2e43f8754a082h
+Ñ	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b adaeea7257111f9b12ed5decea5f9610h
+Ñ	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b f9ef7af4ac4c80b1f46330d9eb8d6677h
+Ö	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b e5d2bb2d5e8efcd40680bdf9da782d41h
+Ö	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 9907bd6a07b55d8a4d1401a89960c725h
+Ö	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b aa63f9c51446679dbbb74a5899cbaae0h
+Ö	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b f09564c9ca56850d4cd6b3319e541aeeh
+Ö	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 66c1b4c7f3dc385b68a9fa903ccd016dh
+Ö	java:S117⁄"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 6c5a3d75bd3a46e925f5e346dcaa47e8h
+Ö	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 37457a4de92ae48361b5ef3fc4a23176h
+Ö	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 0fb34a53fbc4b831f349c6cfc98c6054h
+Ö	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b de22883e4f7d42ade9bb16a200044bbeh
+Ö	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b d76e673c6b2b560a460578487cfa468fh
+Ö	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 1fdd713c119d7a7f83602964bab4e9d7h
+Ö	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 020b8615ef43f2e0f294d51aa84952b3h
+Ö	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 5dbc98dcc983a70728bd082d1a47546eh
+Ö	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b f31e1eef20f64733a18c538073e78396h
+Ö	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 9d8322530b67e2366e5b1ba67081ded9h
+Ö	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 6c3a6944a808a7c0bbb6788dbec54a9fh
+Ö	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b daffe2778c6c87033277cf35a7a6f09bh
+Ö	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b e82ed0978d406633b6c0abfa03d0db0bh
+Ö	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 185118a6ef2daeed7b93a524e75ec2d8h
+Ö	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 09ae99f0849865dcc3554e44658852e4h
+Ö	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 4ed158807da81c73e83475eb614815d1h
+Ö	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b d38212a0c0e98f678feaaa5a8b9167f5h
+Ö	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 5961102bbf53b3ac0b9085f1ef3ce3f0h
+Ö	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 5961102bbf53b3ac0b9085f1ef3ce3f0h
+Ö	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 5961102bbf53b3ac0b9085f1ef3ce3f0h
+Ö	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 5961102bbf53b3ac0b9085f1ef3ce3f0h
+Ö	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 5961102bbf53b3ac0b9085f1ef3ce3f0h
+Ö	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 90c97f20c1b152cd1ee9c12853f71f3bh
+Ö	java:S117ﬁ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 0fb34a53fbc4b831f349c6cfc98c6054h
+Ö	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 8d9c307cb7f3c4a32822a51922d1ceaah
+Ö	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 6ac33124922a90c458ec5bec52aecfb4h
+Ö	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 90c97f20c1b152cd1ee9c12853f71f3bh
+Ö	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 0fb34a53fbc4b831f349c6cfc98c6054h
+Ö	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 90c97f20c1b152cd1ee9c12853f71f3bh
+Ö	java:S117Ω"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 0fb34a53fbc4b831f349c6cfc98c6054h
+Ö	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 90c97f20c1b152cd1ee9c12853f71f3bh
+Ö	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 0fb34a53fbc4b831f349c6cfc98c6054h
+Ö	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 8d9c307cb7f3c4a32822a51922d1ceaah
+Ö	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b eb5567b90042ff84a6c16c98d7ebbe5ah
+Å
+java:S2095ª"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.b 419ca6980875db4b491d932baa425a82h
+Å
+java:S2095ﬂ"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.b 419ca6980875db4b491d932baa425a82h
+Å
+java:S2095‹"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.b 419ca6980875db4b491d932baa425a82h
+Å
+java:S2095ú"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.b 419ca6980875db4b491d932baa425a82h
+ç	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.b b637b17af08aced8850c18cccde915dah
+ç	java:S115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.b 92eb5ffee6ae2fec3ad71c777531578fh
+	java:S116'"LRename this field "D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b f623e75af30e62bbd73d6df5b50bb7b5h
+Ñ	java:S116+"QRename this field "Lchild" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b b5ac0fa8b240d2df446e43f051cc0032h
+Ñ	java:S116,"QRename this field "Rchild" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 969a8924684bf66be384c8d46595f589h
+Å	java:S116-"NRename this field "Fid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 0800b5e65fa1441429142ba713af831bh
+â
+java:S3008("URename this field "DataVector" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 9f48c21d46142cd8c9fbc6f3331b437ch
+é
+java:S4144∏"YUpdate this method so that its implementation is not identical to "Words_Lf" on line 793.b 8f8712a56cd683e44bf7ca334e92c139h
+ä
+java:S1149("VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".b cabc0b3c65c3d25adfb69cc0517e5b3eh
+ä
+java:S1149n"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".b cabc0b3c65c3d25adfb69cc0517e5b3eh
+ã
+java:S1149´"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".b cabc0b3c65c3d25adfb69cc0517e5b3eh
+f
+java:S11359"2Complete the task associated to this TODO comment.b 36364ec9aa2f0995d283c1c6a92d2e5ch
+R
+java:S2119;"Save and re-use this "Random".b 64663f4646781c9c0110838b905daa23h
+^
+java:S1197C"*Move the array designators [] to the type.b 9483150f544bf05c50199d7a88e919a3h
+o	java:S125D"<This block of commented-out lines of code should be removed.b 017dc90e3ee5d9c3f001e9a8b4692624h
+o	java:S125F"<This block of commented-out lines of code should be removed.b 0f7c8ac1f3cdec443426508e5bebeb04h
+o	java:S125Z"<This block of commented-out lines of code should be removed.b 8c46abfa08577419640e55609f2ab939h
+o	java:S125\"<This block of commented-out lines of code should be removed.b ce4259a7948eabc7e099898c5dd0bd9eh
+Ü
+java:S3776`"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.b fad58de7366495db4650cfefac2fcd61h
+n
+java:S1854´"9Remove this useless assignment to local variable "Query".b 5eb73ba4247513caebd4f139f41f6ef0h
+m
+java:S1854·"8Remove this useless assignment to local variable "file".b f10b34575d5418a3531e2a6951879550h
+j
+java:S1854ü"5Remove this useless assignment to local variable "S".b 909026856dc151d25a6c0b939aff1907h
+u
+java:S1075j"ARefactor your code to get this URI from a customizable parameter.b 9e3239100ec322190c1d5c33490864ach
+o	java:S125x"<This block of commented-out lines of code should be removed.b 5b1db58a107f3de7107e648c2448c4e6h
+p	java:S125â"<This block of commented-out lines of code should be removed.b b77a42f38338cfba7d4c0ef7c7514ebeh
+p	java:S125å"<This block of commented-out lines of code should be removed.b bd4b81a1954a0ef4221872d941169788h
+_	java:S106ë"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+p	java:S125ê"<This block of commented-out lines of code should be removed.b f983d5f7e039ae5be1a028306fc97c4dh
+_	java:S106ï"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+p	java:S125í"<This block of commented-out lines of code should be removed.b 1370f1e738239bd9fc7c70f43f53f7f8h
+i
+java:S2864ò"4Iterate over the "entrySet" instead of the "keySet".b d55669822f1a8cf72ec1911e462a54ebh
+p	java:S125ô"<This block of commented-out lines of code should be removed.b 5c5fab903363fcc748f037486f618845h
+_	java:S106°"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106¢"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106£"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106®"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106—"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106“"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106”"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+p	java:S125ﬁ"<This block of commented-out lines of code should be removed.b 08ba806814640c9d3084eb4954e842ebh
+^
+java:S1481·")Remove this unused "file" local variable.b 8c7dd922ad47494fc02c388e12c00each
+p	java:S125‚"<This block of commented-out lines of code should be removed.b da29940219d1c9d6529830cab9707e8ah
+p	java:S125‰"<This block of commented-out lines of code should be removed.b 818c14b5cd5a10e33f5f8ab1b40a4976h
+p	java:S125Ì"<This block of commented-out lines of code should be removed.b 72240b91619f16db60349b0f8d0b3d4ah
+p	java:S125Ú"<This block of commented-out lines of code should be removed.b 3543e24b8ffdf68ca53b5480c1d0f3f8h
+i
+java:S2864˘"4Iterate over the "entrySet" instead of the "keySet".b d55669822f1a8cf72ec1911e462a54ebh
+p	java:S125¯"<This block of commented-out lines of code should be removed.b bd9e8f949305367dae941afca14ca721h
+p	java:S125˛"<This block of commented-out lines of code should be removed.b 653eddd85dd0514cf99b7afac4938289h
+p	java:S125Ö"<This block of commented-out lines of code should be removed.b 1fa116f8f62fe10b9c106cc9af40ad7eh
+p	java:S125ã"<This block of commented-out lines of code should be removed.b d23f309776071492774b303b98b12115h
+p	java:S125í"<This block of commented-out lines of code should be removed.b 2e27a3eaf3aac664d36efb655b0360e3h
+p	java:S125ó"<This block of commented-out lines of code should be removed.b a73ecafc487e2f4475d95e8e3f9f176fh
+Ü
+java:S3457ö"Q%n should be used in place of \n to produce the platform-specific line separator.b bb62c22bdc2b691698140bd67a67cf78h
+_	java:S106ö"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+p	java:S125õ"<This block of commented-out lines of code should be removed.b 16834fa124fb399d467e399bd1c208ach
+p	java:S125°"<This block of commented-out lines of code should be removed.b 553e5737463ffd2361a3728329d0eb69h
+Ü
+java:S3457•"Q%n should be used in place of \n to produce the platform-specific line separator.b ecca4facb8ce4010379166090b0a35e3h
+_	java:S106•"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+Ü
+java:S3457≠"Q%n should be used in place of \n to produce the platform-specific line separator.b a39ed0ab8c3b3c5ce597ffa56a9c450ch
+_	java:S106≠"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+Ü
+java:S3457≥"Q%n should be used in place of \n to produce the platform-specific line separator.b e4ce61934e9a0a64fd53662fc33526fah
+_	java:S106≥"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+Ü
+java:S3457π"Q%n should be used in place of \n to produce the platform-specific line separator.b f68cbc1009034e224e114888a2c7e5b6h
+_	java:S106π"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106ø"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+Ü
+java:S3457¡"Q%n should be used in place of \n to produce the platform-specific line separator.b fbe2a648bddc147a406634be778a817dh
+_	java:S106¡"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106 "+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Õ"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+p	java:S125Ã"<This block of commented-out lines of code should be removed.b 3cfb1d58cfd415eddfc129f2c02dd9d2h
+Ç	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b d4fc9949f38712c761e45024244f4c65h
+S
+java:S2119Á"Save and re-use this "Random".b 64663f4646781c9c0110838b905daa23h
+^
+java:S1905Ó")Remove this unnecessary cast to "Double".b 9b1ce8617df44a9dccb18e7b12644dd0h
+^
+java:S1905Ô")Remove this unnecessary cast to "Double".b 9b1ce8617df44a9dccb18e7b12644dd0h
+p	java:S125Ú"<This block of commented-out lines of code should be removed.b c98dd39932f0c9aeaffc564ebebbf1e9h
+Q
+java:S1116ˆ"Remove this empty statement.b 9eecb7db59d16c80417c72d1e1f4fbf1h
+^
+java:S1905˜")Remove this unnecessary cast to "double".b 0feea738f7fbbdda436cafb453a1ac5fh
+n
+java:S3400é"9Remove this method and declare a constant for this value.b 6eb5d1a555e1e00b5ad15b71d25201f6h
+Ç	java:S100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 1a873fa91ca8ada4e5bca3d51e008bc5h
+p
+java:S1854™";Remove this useless assignment to local variable "etime44".b 55fbc291010e546ba7e09be1a34cef7dh
+o
+java:S1854À":Remove this useless assignment to local variable "etime4".b 55fbc291010e546ba7e09be1a34cef7dh
+o
+java:S1854¬":Remove this useless assignment to local variable "etime4".b 55fbc291010e546ba7e09be1a34cef7dh
+o
+java:S1854€":Remove this useless assignment to local variable "etime4".b 55fbc291010e546ba7e09be1a34cef7dh
+p	java:S125ï"<This block of commented-out lines of code should be removed.b 3025beda9ee375e0c46cb329f7e86e37h
+_	java:S106©"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+a
+java:S1481™",Remove this unused "etime44" local variable.b 8bf914478900497edeca32ca6f8ca101h
+p	java:S125¨"<This block of commented-out lines of code should be removed.b 083b51ffe86fc3bafebaf20c96186ed8h
+S
+java:S2119Ø"Save and re-use this "Random".b 64663f4646781c9c0110838b905daa23h
+õ
+java:S2178≥"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.b b99834bc19bbad24580b3adfa04fb947h
+p	java:S125∏"<This block of commented-out lines of code should be removed.b c98dd39932f0c9aeaffc564ebebbf1e9h
+`
+java:S1481¬"+Remove this unused "etime4" local variable.b 59f3f692766e7f00e59836b843028c11h
+p	java:S125√"<This block of commented-out lines of code should be removed.b 804d2641fa06f8d90810283948075a9ch
+p	java:S125∆"<This block of commented-out lines of code should be removed.b 083b51ffe86fc3bafebaf20c96186ed8h
+p	java:S125»"<This block of commented-out lines of code should be removed.b 139b94bd618200bde14ed85e3cb85369h
+p	java:S125Õ"<This block of commented-out lines of code should be removed.b 9e679af47ddba76d0c0a0d89c7c38aa3h
+N
+java:S2178’"Correct this "&" to "&&".b 6cff047854f19ac2aa52aac51bf3af4ah
+p	java:S125⁄"<This block of commented-out lines of code should be removed.b f8a5b16cb952e7ac1eabbd43c4d38a08h
+p	java:S125‹"<This block of commented-out lines of code should be removed.b 22a45f296d42470c15ba811637058174h
+Ç	java:S100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b c54068ef883e0c21794d87075f74e17eh
+p	java:S125Ó"<This block of commented-out lines of code should be removed.b 272fe62262d4a81a92f7bd0ae34f50cch
+S
+java:S2119Ò"Save and re-use this "Random".b 64663f4646781c9c0110838b905daa23h
+p	java:S125Ö"<This block of commented-out lines of code should be removed.b 083b51ffe86fc3bafebaf20c96186ed8h
+U
+java:S1659ï" Declare "rw" on a separate line.b 038c0dc8a958ffea17af047244fb6960h
+]
+java:S1481ï"(Remove this unused "col" local variable.b d89e2ddb530bb8953b290ab0793aecb0h
+\
+java:S1481ï"'Remove this unused "rw" local variable.b 038c0dc8a958ffea17af047244fb6960h
+S
+java:S2119ò"Save and re-use this "Random".b 64663f4646781c9c0110838b905daa23h
+Ü
+java:S3457ß"Q%n should be used in place of \n to produce the platform-specific line separator.b e95fe5035aa1697a110cef40bc14e290h
+_	java:S106ß"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+p	java:S125Ø"<This block of commented-out lines of code should be removed.b b7cddfacba86446bd84b0b08afbac107h
+S
+java:S2119Ω"Save and re-use this "Random".b 64663f4646781c9c0110838b905daa23h
+[
+java:S1905¡"&Remove this unnecessary cast to "int".b 459a0451338cbc677fadd7e1461515c3h
+Ç	java:S100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 9eefe64eb0d8743a76f3ecb2f3471db9h
+á
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.b 9eefe64eb0d8743a76f3ecb2f3471db9h
+p	java:S125Ë"<This block of commented-out lines of code should be removed.b f3f1b42f54608e7d4f54a72ae42c8fd2h
+p	java:S125Û"<This block of commented-out lines of code should be removed.b e08c93c31c48d4bc9c6f796dfcedf1f6h
+_	java:S106¯"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+p	java:S125˘"<This block of commented-out lines of code should be removed.b 0b86cbe76ca80d8632a375952b478ff9h
+Ç	java:S100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 043975163b3ac434f3fb69c3022d375fh
+á
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.b 043975163b3ac434f3fb69c3022d375fh
+\
+java:S1481â"'Remove this unused "Di" local variable.b 5961102bbf53b3ac0b9085f1ef3ce3f0h
+p	java:S125ì"<This block of commented-out lines of code should be removed.b 10580d119c9d16a6412e0a99752de19ch
+p	java:S125ü"<This block of commented-out lines of code should be removed.b f3f1b42f54608e7d4f54a72ae42c8fd2h
+p	java:S125™"<This block of commented-out lines of code should be removed.b e08c93c31c48d4bc9c6f796dfcedf1f6h
+p	java:S125≠"<This block of commented-out lines of code should be removed.b 8fda713053b90c3f62faefa259bba632h
+p	java:S125±"<This block of commented-out lines of code should be removed.b 159e43b020479bc315b299cc088ce402h
+p	java:S125º"<This block of commented-out lines of code should be removed.b f3f1b42f54608e7d4f54a72ae42c8fd2h
+p	java:S125«"<This block of commented-out lines of code should be removed.b e08c93c31c48d4bc9c6f796dfcedf1f6h
+p	java:S125 "<This block of commented-out lines of code should be removed.b 8fda713053b90c3f62faefa259bba632h
+Ç	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b e80c71ce64436699a041b44394b5402bh
+}
+java:S5361Â"HReplace this call to "replaceAll()" by a call to the "replace()" method.b 9496ad7ef302f6365cbee6b6b6f4d2b9h
+p	java:S125Ü"<This block of commented-out lines of code should be removed.b 07d67d8b493316ea400ede55b7dcc6c8h
+Ç	java:S100ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 2289734fc5a3fab5782692549f9611bah
+}
+java:S5361•"HReplace this call to "replaceAll()" by a call to the "replace()" method.b 9496ad7ef302f6365cbee6b6b6f4d2b9h
+p	java:S125≠"<This block of commented-out lines of code should be removed.b 2518e8d64cb44f03a7774def41262eb7h
+p	java:S125≤"<This block of commented-out lines of code should be removed.b f9ba76fa480d655b9c5b5c9ed21a3f02h
+Ç	java:S100∏"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 8f8712a56cd683e44bf7ca334e92c139h
+}
+java:S5361√"HReplace this call to "replaceAll()" by a call to the "replace()" method.b 9496ad7ef302f6365cbee6b6b6f4d2b9h
+p	java:S125À"<This block of commented-out lines of code should be removed.b 2518e8d64cb44f03a7774def41262eb7h
+p	java:S125–"<This block of commented-out lines of code should be removed.b f9ba76fa480d655b9c5b5c9ed21a3f02h
+Ç	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 9a3b7e156fb0099401280674d15a3f3fh
+p	java:S125›"<This block of commented-out lines of code should be removed.b bcb6194e9046c08e2fe4644c88dafe44h
+}
+java:S5361Á"HReplace this call to "replaceAll()" by a call to the "replace()" method.b 9496ad7ef302f6365cbee6b6b6f4d2b9h
+p	java:S125Ô"<This block of commented-out lines of code should be removed.b 2518e8d64cb44f03a7774def41262eb7h
+p	java:S125Ù"<This block of commented-out lines of code should be removed.b 2e5134da3082aa2a338ce31f2ba74787h
+p	java:S125˘"<This block of commented-out lines of code should be removed.b f9ba76fa480d655b9c5b5c9ed21a3f02h
+p	java:S125ç"<This block of commented-out lines of code should be removed.b 07d67d8b493316ea400ede55b7dcc6c8h
+p	java:S125ê"<This block of commented-out lines of code should be removed.b f69cc61f210947e63032cd3dc14f8940h
+p	java:S125ó"<This block of commented-out lines of code should be removed.b a5d1f96f060d9427fd900d220d2d038ch
+p	java:S125ú"<This block of commented-out lines of code should be removed.b 949b8dbaa964b76f047b7d5f3ba05e4ah
+p	java:S125±"<This block of commented-out lines of code should be removed.b 562bad129a92b36bdc2df030770c1d0bh
+m
+java:S1128"9Remove this unused import 'org.ejml.simple.SimpleMatrix'.b 4ba170d0823757cd169ff180e62c5764h
+a
+java:S1144Ì",Remove this unused private "SplitD1" method.b c54068ef883e0c21794d87075f74e17eh
+c
+java:S1144∏".Remove this unused private "Words_Lf2" method.b 8f8712a56cd683e44bf7ca334e92c139h

@@ -1,0 +1,25 @@
+
+c
+java:S3740	"/Provide the parametrized type for this generic.b cabc0b3c65c3d25adfb69cc0517e5b3eh
+c
+java:S3740	"/Provide the parametrized type for this generic.b cabc0b3c65c3d25adfb69cc0517e5b3eh
+	java:S116"LRename this field "D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b f623e75af30e62bbd73d6df5b50bb7b5h
+Ñ	java:S116"QRename this field "Lchild" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b b5ac0fa8b240d2df446e43f051cc0032h
+Ñ	java:S116"QRename this field "Rchild" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 969a8924684bf66be384c8d46595f589h
+Å	java:S116"NRename this field "Fid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 0800b5e65fa1441429142ba713af831bh
+ô
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b a1d65cd98ec68ddfc0d7f6de4c9a94b6h
+ä
+java:S1149	"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".b cabc0b3c65c3d25adfb69cc0517e5b3eh
+Z
+java:S1068"&Remove this unused "id" private field.b b80bb7740288fda1f201890375a60c8fh
+Y
+java:S1068"%Remove this unused "D" private field.b f623e75af30e62bbd73d6df5b50bb7b5h
+b
+java:S1068	".Remove this unused "dataVector" private field.b 6da82b62538dfa87fa83d3e2841fa681h
+^
+java:S1068"*Remove this unused "Lchild" private field.b b5ac0fa8b240d2df446e43f051cc0032h
+^
+java:S1068"*Remove this unused "Rchild" private field.b 969a8924684bf66be384c8d46595f589h
+[
+java:S1068"'Remove this unused "Fid" private field.b 0800b5e65fa1441429142ba713af831bh

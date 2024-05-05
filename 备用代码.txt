@@ -1,0 +1,39 @@
+double [][]matrix = {{1.0,2.0,3.0},{3.0,4.0,5.0},{1.0,1.0,2.0}};
+//		BaseMatrix m1 = new BaseMatrix(matrix);
+//		m1.show();
+//		Vector<Double> s = new Vector<>();
+//		s.add(0, 1.0);
+//		s.add(1, 2.0);
+//		s.add(2, 1.0);
+//		System.out.println("s:"+s);
+//		Vector<Double> s2 = m1.mult(s);
+//		System.out.println("S2:"+s2);
+		
+		
+		//用密钥S对向量D进行分裂
+//		Vector<Double> D1 = new Vector<>();
+//		Vector<Double> D2 = new Vector<>();
+//		 SplitD1(S,M1,M2,HeadNode.D);
+		
+//		System.out.println("D1 and D2"+ SplitD1(S,M1,M2,HeadNode.D));//输出向量集合{D1，D2}
+
+//				
+//		SimpleMatrix matrixD = new SimpleMatrix(2, 2);
+//        for (int i = 0; i < 2; i++) {
+//            for (int j = 0; j < 2; j++) {
+//                if (i == j) {
+//                    matrixD.set(i, j, i + 1);
+//                } else {
+//                    matrixD.set(i, j, i + 2);
+//                }
+//            }
+//        }
+//        System.out.println("矩阵D:\n"+matrixD);
+//        
+//// 
+//        SimpleMatrix D_invert = matrixD.invert();
+//        System.out.println("矩阵D的逆阵:\n"+D_invert);
+// 
+//        SimpleMatrix D_pseudoInverse = matrixD.pseudoInverse();
+//        System.out.println("矩阵D的广义逆阵:\n"+D_pseudoInverse);
+		

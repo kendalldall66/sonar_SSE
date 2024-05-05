@@ -1,0 +1,15 @@
+
+ç
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+ç
+java:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").b 4dc5c13b72182b82ed43d63192156999h
+ç
+java:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").b 2b0868cf280524856dd29d184f7861dbh
+s
+java:S1155—">Use isEmpty() to check whether the collection is empty or not.b 9415817879f6da54f5a2a90bcdbfc693h
+á
+java:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.b 86210a60a3be7fd0e0632b30261698aeh
+a
+java:S1264ù",Replace this "for" loop with a "while" loop.b d55669822f1a8cf72ec1911e462a54ebh
+á
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.b b9937ba090537685b0a0f1d6a11fd31eh

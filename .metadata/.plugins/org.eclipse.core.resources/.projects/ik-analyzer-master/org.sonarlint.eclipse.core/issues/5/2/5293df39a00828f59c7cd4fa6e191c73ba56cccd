@@ -1,0 +1,17 @@
+
+Ž
+java:S1210Õ"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.b 9c6977aa3ce5b94580e3f19b2777d663h
+†
+java:S3776u"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.b e3cc92c14a5e6dd1a7d94b6ff634d7fch
+X
+java:S2129ƒ"#Remove this "Character" constructorb 76a40e4f974fd895a0a2598c1cee28b4h
+}
+java:S5738ƒ"HRemove this call to a deprecated method, it has been marked for removal.b 76a40e4f974fd895a0a2598c1cee28b4h
+X
+java:S2129Ì"#Remove this "Character" constructorb 76a40e4f974fd895a0a2598c1cee28b4h
+}
+java:S5738Ì"HRemove this call to a deprecated method, it has been marked for removal.b 76a40e4f974fd895a0a2598c1cee28b4h
+n
+java:S2168¨"9Remove this dangerous instance of double-checked locking.b f6dbc93312ac2dd66d3989fc9050167fh
+n
+java:S2168·"9Remove this dangerous instance of double-checked locking.b f6dbc93312ac2dd66d3989fc9050167fh

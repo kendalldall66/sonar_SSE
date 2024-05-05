@@ -1,0 +1,20 @@
+
+ç
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").b 2b0868cf280524856dd29d184f7861dbh
+Ñ	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b ecb3d770d0db94939f5961b489764858h
+ï
+java:S1488B"aImmediately return this expression instead of assigning it to the temporary variable "swmcQuery".b 705b15e4345c34f76f6792c41e50dd2dh
+é
+java:S1488ç"YImmediately return this expression instead of assigning it to the temporary variable "q".b e40532c9b5bc27e4e40faaadf10e68b7h
+é
+java:S1488ñ"YImmediately return this expression instead of assigning it to the temporary variable "q".b 823f39e94f05d3a10ab44a22ab3b8bf5h
+ì
+java:S1149f"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".b 44f2f3b7f27e0930b2cc3f6340e0ca94h
+ì
+java:S1149h"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".b 44f2f3b7f27e0930b2cc3f6340e0ca94h
+n
+java:S1118.":Add a private constructor to hide the implicit public one.b 96f3daa1122e7c554533bf769f494fach
+Ü
+java:S3776d"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.b b0e8beefada56b1070e50e1a148f9b47h
+ó
+java:S3252á"bUse static access with "org.apache.lucene.queryparser.classic.QueryParserBase" for "AND_OPERATOR".b e3c02aef8c1bb9a783b7f9450081499ch

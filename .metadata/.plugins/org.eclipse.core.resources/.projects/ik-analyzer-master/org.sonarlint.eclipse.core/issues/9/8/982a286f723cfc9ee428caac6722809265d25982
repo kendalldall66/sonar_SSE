@@ -1,0 +1,13 @@
+
+ç
+java:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").b fd712c0f4db9019ac9146e7dd62547a0h
+é
+java:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").b ecd00fa816421d305fb816b8caad2d1ch
+Ñ
+java:S1149c"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".b 15046ad0b6160fcf5ebf8dd8dc1d2077h
+Ö
+java:S1149Ä"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".b 15046ad0b6160fcf5ebf8dd8dc1d2077h
+Ö
+java:S1149Ç"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".b 15046ad0b6160fcf5ebf8dd8dc1d2077h
+i
+java:S1172\"5Remove this unused method parameter "fullTextLength".b 4fb361e3e92cee8899510ad45cace5d7h

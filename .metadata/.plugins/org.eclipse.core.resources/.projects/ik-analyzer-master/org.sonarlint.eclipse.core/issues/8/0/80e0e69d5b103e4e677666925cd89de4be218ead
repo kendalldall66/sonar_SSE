@@ -1,0 +1,13 @@
+
+ç
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").b cd3da31bb3b5ae929295d5390e3961d7h
+ç
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").b 6337b855f758163b6147c0066720e717h
+d
+java:S1066â"/Merge this if statement with the enclosing one.b 39c8942e1038872a822c0dc75eedbde3h
+d
+java:S1066‰"/Merge this if statement with the enclosing one.b 39c8942e1038872a822c0dc75eedbde3h
+ç
+java:S30081"YRename this field "ChnNumberChars" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b db075b81ddd18437ab75daaf1a9ae810h
+á
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.b 823e728d8b982998c813532bbc9acf76h

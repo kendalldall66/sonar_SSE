@@ -1,0 +1,9 @@
+
+o	java:S125"<This block of commented-out lines of code should be removed.b 1571447779a3eb1163d38efc73bfc2e4h
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+f
+java:S1135"2Complete the task associated to this TODO comment.b 7070b9ee421ce52b0a94300bdc011420h
+m
+java:S3400'"9Remove this method and declare a constant for this value.b 1bb359c52b2202ebb5dfa7f72f46d679h
+d
+java:S1128"0Remove this unused import 'java.util.Hashtable'.b b7bfb31ae4deb2f33e69305a2480834fh

@@ -1,0 +1,7 @@
+
+ç
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").b 6337b855f758163b6147c0066720e717h
+Ü
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.b 57f0a7008635d0a0fe7a6c9335185020h
+r
+java:S1155o">Use isEmpty() to check whether the collection is empty or not.b 2e08a581d93fe49e9ec0fcba8846f278h

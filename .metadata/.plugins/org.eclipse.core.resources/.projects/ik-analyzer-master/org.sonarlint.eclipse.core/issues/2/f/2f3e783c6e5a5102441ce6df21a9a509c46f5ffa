@@ -1,0 +1,35 @@
+
+z	java:S112’"FDefine and throw a dedicated exception instead of using a generic one.b 15452a9b0f2356c3dabe720a67728b3dh
+z	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.b 15452a9b0f2356c3dabe720a67728b3dh
+
+java:S1192Í"JDefine a constant instead of duplicating this literal "io error." 4 times.b 99ff0d4b2379caa34349df0207a73567h
+{
+java:S1192Ÿ"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.b 52cbbfbe0fa388d2fc0de5075ed904beh
+l
+java:S2589·"7Remove this expression which always evaluates to "true"b 03ef302f67f3cf3ed9abacfedc1e0751h
+l
+java:S2589Ê"7Remove this expression which always evaluates to "true"b 03ef302f67f3cf3ed9abacfedc1e0751h
+e
+java:S3064X"1Fully initialize "singleton" before assigning it.b 7d569871d7c0f7faa0c2877840d38cb5h
+m
+java:S2168V"9Remove this dangerous instance of double-checked locking.b f6dbc93312ac2dd66d3989fc9050167fh
+n
+java:S4719Ÿ"9Replace charset name argument with StandardCharsets.UTF_8b 52cbbfbe0fa388d2fc0de5075ed904beh
+_
+java:S2093ÿ"*Change this "try" to a try-with-resources.b 080f651e3fcca17df3a47c2cecfcb880h
+á
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.b f6691c2f50a09a3426c5fc9939c7cca2h
+n
+java:S4719Ç"9Replace charset name argument with StandardCharsets.UTF_8b 52cbbfbe0fa388d2fc0de5075ed904beh
+_
+java:S2093Å"*Change this "try" to a try-with-resources.b 080f651e3fcca17df3a47c2cecfcb880h
+á
+java:S3776û"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.b 47af00f56c08cbeaf81b361af4b90e8bh
+n
+java:S4719Æ"9Replace charset name argument with StandardCharsets.UTF_8b 52cbbfbe0fa388d2fc0de5075ed904beh
+_
+java:S2093≠"*Change this "try" to a try-with-resources.b 080f651e3fcca17df3a47c2cecfcb880h
+n
+java:S4719”"9Replace charset name argument with StandardCharsets.UTF_8b 52cbbfbe0fa388d2fc0de5075ed904beh
+_
+java:S2093“"*Change this "try" to a try-with-resources.b 080f651e3fcca17df3a47c2cecfcb880h

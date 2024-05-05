@@ -1,0 +1,66 @@
+
+é
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").b 4ce5ff9c982c797aeab04ccee8811c8bh
+Ñ	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b f53df0293e169f562bc1d9a20e1d2589h
+Ñ	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b f53df0293e169f562bc1d9a20e1d2589h
+Ñ	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b f53df0293e169f562bc1d9a20e1d2589h
+Ñ	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b f53df0293e169f562bc1d9a20e1d2589h
+Ö	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b f53df0293e169f562bc1d9a20e1d2589h
+Ö	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b f53df0293e169f562bc1d9a20e1d2589h
+Ö	java:S117≠"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b d518a06262ac68f1f006a4f802588130h
+Ö	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b a0ec87054b5e5b7847d0d8780a01a3d5h
+Ö	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b f53df0293e169f562bc1d9a20e1d2589h
+Ö	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 134e90da1c381d59b23542b49996247bh
+Ö	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 4ee29ca12c7d126654bd0e5275de6135h
+Ö	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 40edd497ca6b722aa7426cde6b2ebb73h
+Ö	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 22935537b0db8a34c1c3cba4771983d4h
+Ö	java:S117≤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 8d9c307cb7f3c4a32822a51922d1ceaah
+Ö	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 5206560a306a2e085a437fd258eb57ceh
+U
+java:S1659"!Declare "row" on a separate line.b f1965a857bc285d26fe22023aa5ab50dh
+ö
+java:S1149∞"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b a1d65cd98ec68ddfc0d7f6de4c9a94b6h
+ö
+java:S1149∞"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b a1d65cd98ec68ddfc0d7f6de4c9a94b6h
+ö
+java:S1149¥"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".b a1d65cd98ec68ddfc0d7f6de4c9a94b6h
+ç
+java:S3012&"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.b 168fa1aca4ae871f1f4483dc2fd69555h
+ç
+java:S30121"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.b 168fa1aca4ae871f1f4483dc2fd69555h
+^	java:S106F"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106_"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+Ç	java:S100à"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 73567af9ed5ff3828bd4d2fa092d0383h
+v
+java:S1126ä"AReplace this if-then-else statement by a single return statement.b 39c8942e1038872a822c0dc75eedbde3h
+ñ
+java:S1221è"aEither override Object.equals(Object obj), or totally rename the method to prevent any confusion.b 465289687a70db7aa7217cc240c29f0fh
+v
+java:S1126ù"AReplace this if-then-else statement by a single return statement.b 39c8942e1038872a822c0dc75eedbde3h
+_	java:S106®"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106¡"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106€"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106‹"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106‡"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106·"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+Ç	java:S100Ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 021da1b20f73dc252361a54d80497ef3h
+á
+java:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.b 021da1b20f73dc252361a54d80497ef3h
+é
+java:S3012ˇ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.b 16377442cd99d21b154c624063a2299ah
+Ç	java:S100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 24ee52c008e56f7b4f64fcfd5804e92dh
+_	java:S106Î"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+v
+java:S1126Ï"AReplace this if-then-else statement by a single return statement.b 39c8942e1038872a822c0dc75eedbde3h
+Ç	java:S100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 5585f3b2f32caefd7547a1db95eb5e47h
+á
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.b 5585f3b2f32caefd7547a1db95eb5e47h
+_	java:S106˜"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+q
+java:S1854û"<Remove this useless assignment to local variable "D_invert".b c0c777b6005175de3b974653e88ac88ah
+b
+java:S1481û"-Remove this unused "D_invert" local variable.b 40edd497ca6b722aa7426cde6b2ebb73h
+p	java:S125≥"<This block of commented-out lines of code should be removed.b cb91683d76f2f6caa10dbd6e2bc18d5eh
+p	java:S125µ"<This block of commented-out lines of code should be removed.b afd64ae99fb2f3e40f9b4ca0513a90d9h
+¸
+java:S6541Ê"∆A "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 125 to 64, Complexity from 26 to 14, Nesting Level from 6 to 2, Number of Variables from 13 to 6.b 021da1b20f73dc252361a54d80497ef3h

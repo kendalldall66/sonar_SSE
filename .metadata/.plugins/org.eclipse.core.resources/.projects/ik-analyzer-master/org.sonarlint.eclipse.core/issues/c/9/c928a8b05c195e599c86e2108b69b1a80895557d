@@ -1,0 +1,48 @@
+
+Ž
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").b 79061045246fc8739400d0fbf821f801h
+Œ	java:S135b"YReduce the total number of break and continue statements in this loop to use at most one.b d55669822f1a8cf72ec1911e462a54ebh
+Œ	java:S127ò"XRefactor the code in order to not assign to this loop counter from within the loop body.b 865c0c0b4ab0e063e5caa3387c1a8741h
+Œ	java:S127þ"XRefactor the code in order to not assign to this loop counter from within the loop body.b 865c0c0b4ab0e063e5caa3387c1a8741h
+Œ	java:S127‚"XRefactor the code in order to not assign to this loop counter from within the loop body.b 865c0c0b4ab0e063e5caa3387c1a8741h
+Œ	java:S127‚"XRefactor the code in order to not assign to this loop counter from within the loop body.b 865c0c0b4ab0e063e5caa3387c1a8741h
+…	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b e278fc323cb2ef54d58ccb0bb26fd785h
+„
+java:S11493"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".b aab219679577e4878d1c2f89d318e78eh
+„
+java:S11495"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".b ed1a2dbf309f9572e7709d42274d4217h
+”
+java:S1149¸"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".b 44f2f3b7f27e0930b2cc3f6340e0ca94h
+o	java:S1250"<This block of commented-out lines of code should be removed.b 77559904b492f2fc8372e04a316b04fdh
+‡
+java:S3776Z"SRefactor this method to reduce its Cognitive Complexity from 116 to the 15 allowed.b a1c58abd08b9809e3863d97b4c45c6beh
+w
+java:S1854à"BRemove this useless assignment to local variable "currentElement".b a69fd3e2f360df9751683415600fbcedh
+‡
+java:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.b 8b0660cc0bd5351fdbc6fdf7a7b8f5beh
+p	java:S125ÿ"<This block of commented-out lines of code should be removed.b 26f15ec150453924c0dfa4a31fac0d22h
+‚
+java:S1871±"MThis branch's code block is the same as the block for the branch on line 429.b b36f32d5794bdd5f47c1131261d8fd01h
+‡
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 87 to the 15 allowed.b 32df87d81405975c075c0bddc3f79af9h
+s
+java:S1155Î">Use isEmpty() to check whether the collection is empty or not.b 8160c4cbe3d551637ad59885affbc514h
+p	java:S125Ó"<This block of commented-out lines of code should be removed.b 914c36a6538b4122f35a9d14fa92bd24h
+s
+java:S1155Þ">Use isEmpty() to check whether the collection is empty or not.b d594f0caa3118e2e6632ee0b2ca956d7h
+s
+java:S1155ó">Use isEmpty() to check whether the collection is empty or not.b d594f0caa3118e2e6632ee0b2ca956d7h
+s
+java:S1155‰">Use isEmpty() to check whether the collection is empty or not.b d594f0caa3118e2e6632ee0b2ca956d7h
+s
+java:S1155ž">Use isEmpty() to check whether the collection is empty or not.b d594f0caa3118e2e6632ee0b2ca956d7h
+s
+java:S1155·">Use isEmpty() to check whether the collection is empty or not.b d594f0caa3118e2e6632ee0b2ca956d7h
+‡
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.b 7aa7fb480741272a7a134789856e7bf3h
+p	java:S125Ù"<This block of commented-out lines of code should be removed.b 7af50bb3185a23e30caca776fde72ed7h
+p	java:S125â"<This block of commented-out lines of code should be removed.b 3ca41d3d98042e58a9dda6c1d3f89bd6h
+û
+java:S6541ç"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 83 to 64, Complexity from 27 to 14, Nesting Level from 5 to 2, Number of Variables from 20 to 6.b 8b0660cc0bd5351fdbc6fdf7a7b8f5beh
+û
+java:S6541Í"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 92 to 64, Complexity from 31 to 14, Nesting Level from 5 to 2, Number of Variables from 14 to 6.b 32df87d81405975c075c0bddc3f79af9h

@@ -1,0 +1,5 @@
+
+w
+java:S2259W"CA "NullPointerException" could be thrown; "index" is nullable here.b 55385041123252ff8e6c2f7da3adf442h
+Ž
+java:S1210ï"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.b 9c6977aa3ce5b94580e3f19b2777d663h

@@ -1,0 +1,252 @@
+
+X	java:S112·"FDefine and throw a dedicated exception instead of using a generic one.h
+A
+java:S3740("/Provide the parametrized type for this generic.h
+A
+java:S3740("/Provide the parametrized type for this generic.h
+A
+java:S3740d"/Provide the parametrized type for this generic.h
+A
+java:S3740d"/Provide the parametrized type for this generic.h
+k
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").h
+l
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").h
+l
+java:S2293Ð"YReplace the type specification in this constructor call with the diamond operator ("<>").h
+l
+java:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").h
+l
+java:S2293õ"YReplace the type specification in this constructor call with the diamond operator ("<>").h
+l
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").h
+l
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").h
+l
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").h
+l
+java:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").h
+l
+java:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").h
+l
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").h
+l
+java:S1192½"YDefine a constant instead of duplicating this literal "[a-zA-Z]+(\\-[a-zA-Z]+)?" 3 times.h
+b	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+b	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+b	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+b	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+c	java:S117ð"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+_
+java:S2095º"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.h
+_
+java:S2095·"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.h
+_
+java:S2095–"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.h
+_
+java:S2095÷"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.h
+k	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.h
+k	java:S115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.h
+]	java:S116'"LRename this field "D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+b	java:S116+"QRename this field "Lchild" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+b	java:S116,"QRename this field "Rchild" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+_	java:S116-"NRename this field "Fid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+g
+java:S3008("URename this field "DataVector" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+l
+java:S4144“"YUpdate this method so that its implementation is not identical to "Words_Lf" on line 628.h
+h
+java:S1149("VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".h
+h
+java:S1149d"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".h
+D
+java:S11357"2Complete the task associated to this TODO comment.h
+0
+java:S21199"Save and re-use this "Random".h
+<
+java:S1197A"*Move the array designators [] to the type.h
+M	java:S125B"<This block of commented-out lines of code should be removed.h
+M	java:S125D"<This block of commented-out lines of code should be removed.h
+d
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.h
+K
+java:S1854¦"8Remove this useless assignment to local variable "file".h
+H
+java:S1854ä"5Remove this useless assignment to local variable "S".h
+S
+java:S1075_"ARefactor your code to get this URI from a customizable parameter.h
+M	java:S125`"<This block of commented-out lines of code should be removed.h
+M	java:S125l"<This block of commented-out lines of code should be removed.h
+M	java:S125}"<This block of commented-out lines of code should be removed.h
+N	java:S125€"<This block of commented-out lines of code should be removed.h
+=	java:S106‰"+Replace this use of System.out by a logger.h
+N	java:S125„"<This block of commented-out lines of code should be removed.h
+G
+java:S2864Œ"4Iterate over the "entrySet" instead of the "keySet".h
+N	java:S125"<This block of commented-out lines of code should be removed.h
+=	java:S106•"+Replace this use of System.out by a logger.h
+=	java:S106–"+Replace this use of System.out by a logger.h
+N	java:S125£"<This block of commented-out lines of code should be removed.h
+<
+java:S1481¦")Remove this unused "file" local variable.h
+N	java:S125§"<This block of commented-out lines of code should be removed.h
+N	java:S125©"<This block of commented-out lines of code should be removed.h
+N	java:S125²"<This block of commented-out lines of code should be removed.h
+N	java:S125·"<This block of commented-out lines of code should be removed.h
+G
+java:S2864¾"4Iterate over the "entrySet" instead of the "keySet".h
+N	java:S125½"<This block of commented-out lines of code should be removed.h
+N	java:S125Ã"<This block of commented-out lines of code should be removed.h
+N	java:S125Ê"<This block of commented-out lines of code should be removed.h
+N	java:S125Ð"<This block of commented-out lines of code should be removed.h
+N	java:S125×"<This block of commented-out lines of code should be removed.h
+N	java:S125Ü"<This block of commented-out lines of code should be removed.h
+d
+java:S3457ß"Q%n should be used in place of \n to produce the platform-specific line separator.h
+=	java:S106ß"+Replace this use of System.out by a logger.h
+N	java:S125à"<This block of commented-out lines of code should be removed.h
+N	java:S125æ"<This block of commented-out lines of code should be removed.h
+d
+java:S3457ê"Q%n should be used in place of \n to produce the platform-specific line separator.h
+=	java:S106ê"+Replace this use of System.out by a logger.h
+d
+java:S3457ï"Q%n should be used in place of \n to produce the platform-specific line separator.h
+=	java:S106ï"+Replace this use of System.out by a logger.h
+=	java:S106÷"+Replace this use of System.out by a logger.h
+=	java:S106ú"+Replace this use of System.out by a logger.h
+N	java:S125ù"<This block of commented-out lines of code should be removed.h
+`	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+M
+java:S1854¨":Remove this useless assignment to local variable "etime4".h
+M
+java:S1854¥":Remove this useless assignment to local variable "etime4".h
+M
+java:S1854Ÿ":Remove this useless assignment to local variable "etime4".h
+M
+java:S1854·":Remove this useless assignment to local variable "etime4".h
+=	java:S106ˆ"+Replace this use of System.out by a logger.h
+N	java:S125‰"<This block of commented-out lines of code should be removed.h
+1
+java:S2119Œ"Save and re-use this "Random".h
+y
+java:S2178"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.h
+N	java:S125•"<This block of commented-out lines of code should be removed.h
+>
+java:S1481Ÿ"+Remove this unused "etime4" local variable.h
+N	java:S125 "<This block of commented-out lines of code should be removed.h
+N	java:S125£"<This block of commented-out lines of code should be removed.h
+N	java:S125¦"<This block of commented-out lines of code should be removed.h
+N	java:S125©"<This block of commented-out lines of code should be removed.h
+,
+java:S2178±"Correct this "&" to "&&".h
+N	java:S125¶"<This block of commented-out lines of code should be removed.h
+N	java:S125¸"<This block of commented-out lines of code should be removed.h
+`	java:S100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+N	java:S125É"<This block of commented-out lines of code should be removed.h
+1
+java:S2119Ì"Save and re-use this "Random".h
+N	java:S125à"<This block of commented-out lines of code should be removed.h
+3
+java:S1659ð" Declare "rw" on a separate line.h
+;
+java:S1481ð"(Remove this unused "col" local variable.h
+:
+java:S1481ð"'Remove this unused "rw" local variable.h
+1
+java:S2119ó"Save and re-use this "Random".h
+d
+java:S3457‚"Q%n should be used in place of \n to produce the platform-specific line separator.h
+=	java:S106‚"+Replace this use of System.out by a logger.h
+N	java:S125Š"<This block of commented-out lines of code should be removed.h
+1
+java:S2119˜"Save and re-use this "Random".h
+9
+java:S1905œ"&Remove this unnecessary cast to "int".h
+`	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+e
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.h
+N	java:S125Ã"<This block of commented-out lines of code should be removed.h
+N	java:S125Î"<This block of commented-out lines of code should be removed.h
+=	java:S106Ó"+Replace this use of System.out by a logger.h
+N	java:S125Ô"<This block of commented-out lines of code should be removed.h
+`	java:S100Þ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+e
+java:S3776Þ"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.h
+:
+java:S1481ä"'Remove this unused "Di" local variable.h
+N	java:S125î"<This block of commented-out lines of code should be removed.h
+N	java:S125ú"<This block of commented-out lines of code should be removed.h
+N	java:S125…"<This block of commented-out lines of code should be removed.h
+N	java:S125ˆ"<This block of commented-out lines of code should be removed.h
+N	java:S125Œ"<This block of commented-out lines of code should be removed.h
+N	java:S125—"<This block of commented-out lines of code should be removed.h
+N	java:S125¢"<This block of commented-out lines of code should be removed.h
+N	java:S125¥"<This block of commented-out lines of code should be removed.h
+`	java:S100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+[
+java:S5361À"HReplace this call to "replaceAll()" by a call to the "replace()" method.h
+N	java:S125á"<This block of commented-out lines of code should be removed.h
+`	java:S100ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+[
+java:S5361€"HReplace this call to "replaceAll()" by a call to the "replace()" method.h
+N	java:S125ˆ"<This block of commented-out lines of code should be removed.h
+N	java:S125"<This block of commented-out lines of code should be removed.h
+`	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+[
+java:S5361ž"HReplace this call to "replaceAll()" by a call to the "replace()" method.h
+N	java:S125¦"<This block of commented-out lines of code should be removed.h
+N	java:S125«"<This block of commented-out lines of code should be removed.h
+`	java:S100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.h
+N	java:S125¸"<This block of commented-out lines of code should be removed.h
+[
+java:S5361Â"HReplace this call to "replaceAll()" by a call to the "replace()" method.h
+N	java:S125Ê"<This block of commented-out lines of code should be removed.h
+N	java:S125Ï"<This block of commented-out lines of code should be removed.h
+N	java:S125Ô"<This block of commented-out lines of code should be removed.h
+N	java:S125è"<This block of commented-out lines of code should be removed.h
+N	java:S125ë"<This block of commented-out lines of code should be removed.h
+N	java:S125ò"<This block of commented-out lines of code should be removed.h
+N	java:S125÷"<This block of commented-out lines of code should be removed.h
+N	java:S125Œ"<This block of commented-out lines of code should be removed.h
+K
+java:S1128"9Remove this unused import 'org.ejml.simple.SimpleMatrix'.h
+?
+java:S1144È",Remove this unused private "SplitD1" method.h
+A
+java:S1144“".Remove this unused private "Words_Lf2" method.h

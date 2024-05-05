@@ -1,0 +1,7 @@
+
+Ž
+java:S1210Ó"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.b 9c6977aa3ce5b94580e3f19b2777d663h
+”
+java:S1149ƒ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".b 44f2f3b7f27e0930b2cc3f6340e0ca94h
+‡
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.b 9c6977aa3ce5b94580e3f19b2777d663h
